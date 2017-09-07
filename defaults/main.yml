@@ -3,3 +3,22 @@
 configure_git: yes
 git_user_name: Your Name
 git_user_email: your@email.address
+
+global_homebrew_taps:
+  - homebrew/core
+  - caskroom/cask
+
+global_homebrew_packages: []
+group_homebrew_packages: []
+personal_homebrew_packages: []
+
+global_homebrew_cask_apps: []
+group_homebrew_cask_apps: []
+personal_homebrew_cask_apps: []
+
+homebrew_upgrade_all_packages: no
+
+homebrew_cask_appdir: /Applications
+
+homebrew_use_brewfile: False
+homebrew_brewfile_dir: '~'
