@@ -12,6 +12,8 @@ global_homebrew_packages: []
 group_homebrew_packages: []
 personal_homebrew_packages: []
 
+homebrew_blacklisted_packages: []
+
 global_homebrew_cask_apps: []
 group_homebrew_cask_apps: []
 personal_homebrew_cask_apps: []
