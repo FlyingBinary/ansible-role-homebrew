@@ -6,7 +6,7 @@ git_user_email: your@email.address
 
 global_homebrew_taps:
   - homebrew/core
-  - caskroom/cask
+  - homebrew/cask
 
 global_homebrew_packages: []
 group_homebrew_packages: []
